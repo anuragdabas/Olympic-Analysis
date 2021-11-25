@@ -1,3 +1,4 @@
 Steamlit
 Pandas
 Plotly
+Seaborn
